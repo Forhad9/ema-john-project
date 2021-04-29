@@ -10,11 +10,15 @@
 .details-div{
     color: rgb(29, 29, 221);
     font-weight: 400;
+    
   
    
 }
+.container-div{
+    margin-left: 20px;
+}
 .image-div{
-   
+  
 }
 .main-button{
     background-color: rgb(238, 183, 43);
@@ -24,4 +28,5 @@
     border: 1px solid gold;
     color: rgb(48, 39, 39);
     font-weight: bold;
+    cursor: pointer;
 }
