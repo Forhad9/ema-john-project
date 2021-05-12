@@ -30,3 +30,7 @@
     font-weight: bold;
     cursor: pointer;
 }
+.main-button:hover{
+    background-color: rgb(189, 147, 40);
+    color: white;
+}
